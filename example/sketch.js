@@ -25,6 +25,7 @@ function draw() {
 
   drawCircle.move();
   drawCircle.display();
+  drawCircle.checkEdge();
 }
 
 class Circle {
@@ -44,5 +45,11 @@ class Circle {
     ellipse(this.position.x, this.position.y, this.size);
     fill(255);
     noStroke();
+  }
+
+  checkEdge(){
+    if (this.position.y > height) {
+      this.position.y *= -1;
+    }
   }
 }
