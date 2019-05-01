@@ -1,3 +1,5 @@
+let drawCircle;
+
 function setup() {
   title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME : </a> 작품 제목");
   title.position(20, 0);
@@ -15,10 +17,32 @@ function setup() {
   text.style("font-family", "monospace");
   text.style("font-size", "12pt");
 
+  drawCircle = new Circle();
 }
 
 function draw() {
   background(0);
-  fill(255);
-  ellipse(width/2, height/2, 50);
+
+  drawCircle.move();
+  drawCircle.display();
+}
+
+class Circle {
+  constructor(){
+    this.position = createVector(width/2, height/2);
+    this.velocity = createVector(0, 0);
+    this.acceleration = createVector(0, 0.01);
+    this.size = 20;
+  }
+
+  move(){
+    this.position.add(this.velocity);
+    this.velocity.add(this.acceleration);
+  }
+
+  display(){
+    ellipse(this.position.x, this.position.y, this.size);
+    fill(255);
+    noStroke();
+  }
 }
