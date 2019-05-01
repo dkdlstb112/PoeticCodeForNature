@@ -32,7 +32,7 @@ class Circle {
   constructor(){
     this.position = createVector(width/2, height/2);
     this.velocity = createVector(0, 0);
-    this.acceleration = createVector(0, 0.01);
+    this.acceleration = createVector(0, 0.05);
     this.size = 20;
   }
 
@@ -49,7 +49,7 @@ class Circle {
 
   checkEdge(){
     if (this.position.y > height) {
-      this.position.y *= -1;
+      this.acceleration.y *= -1;
     }
   }
 }
