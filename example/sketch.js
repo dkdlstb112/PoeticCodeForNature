@@ -49,7 +49,8 @@ class Circle {
 
   checkEdge(){
     if (this.position.y > height) {
-      this.acceleration.y *= -1;
+      this.velocity.y *= -1;
+      this.position.y = height;
     }
   }
 }
