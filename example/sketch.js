@@ -32,7 +32,7 @@ class Circle {
   constructor(){
     this.position = createVector(width/2, height/2);
     this.velocity = createVector(0, 0);
-    this.acceleration = createVector(0, 0.05);
+    this.acceleration = createVector(0, 0.1);
     this.size = 20;
   }
 
