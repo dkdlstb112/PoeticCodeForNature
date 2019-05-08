@@ -16,7 +16,7 @@
  * Astronomy
  * Artificial Intelligence
 
- > If it's just us, it seems like an awful waste of space.
+ > If it's just us, it seems like an awful waste of space. - Carl Sagan
 
 ## 작업
  * [예시 작업](./example/)
