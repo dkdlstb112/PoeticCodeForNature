@@ -8,7 +8,7 @@
 
 ## Sungbaek Kim
  * **Seoul Institute of the Arts** / Digital Arts major
- * **Visual Media Hight School** / Media Contents major
+ * **Visual Media Highschool** / Media Contents major
 
 ## Interests
  * Media Arts
