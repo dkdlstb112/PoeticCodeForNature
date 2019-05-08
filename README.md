@@ -9,8 +9,14 @@
 ## Sungbaek Kim
  * **Seoul Institute of the Arts** Digital Arts major
  * **Visual Media Hight School** Media Contents major
- 
 
+## Interests
+ * Media Arts
+ * Motion Graphics
+ * Astronomy
+ * Artificial Intelligence
+
+ > If it's just us, it seems like an awful waste of space.
 
 ## 작업
  * [예시 작업](./example/)
