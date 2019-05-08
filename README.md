@@ -9,6 +9,7 @@
  * Artificial Intelligence
 
  > *If it's just us, it seems like an awful waste of space.* **- Carl Sagan**
+ > *The Road Not Taken* **-Robert Frost**
 
 ## Work
  * [예시 작업](./example/)
