@@ -13,8 +13,10 @@
 
  ![예시 이미지](./example_img.png)
 
- * [Pixel Generator](./pixelGenerator/)
+---
+[Pixel Generator](./pixelGenerator/)
+ * 무작위한 픽셀로 어떤 그림이 그려질까?
 
  ---
- ### [Box2D 예제](./0515_box2d_example/)
+ [Box2D 예제](./0515_box2d_example/)
  * Box2D 기본 예제 테스트
