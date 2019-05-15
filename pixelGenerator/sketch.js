@@ -9,6 +9,7 @@ let size = 3;
 
 function setup() {
   createCanvas(1280, 720);
+  background(50);
   frameRate(1000);
   pixel = new Pixel();
   pixel_1 = new Pixel();
