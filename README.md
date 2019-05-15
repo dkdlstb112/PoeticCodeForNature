@@ -13,5 +13,5 @@
 
  ![예시 이미지](./example_img.png)
 
- * [Pixel Generator](./0508_sample1/)
+ * [Pixel Generator](./pixelGenerator/)
  * [NoC_Example_MultiShapes](./0515_box2d_example/)
