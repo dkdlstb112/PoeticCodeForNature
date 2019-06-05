@@ -4,7 +4,7 @@
 
  > *If it's just us, it seems like an awful waste of space.* **-Carl Sagan**
 
-<br>/
+<br>
  ---
 [Pixel Generator](./pixelGenerator/)
  * 무작위한 픽셀로 어떤 그림이 그려질까?
