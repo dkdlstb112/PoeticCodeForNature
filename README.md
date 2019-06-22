@@ -1,8 +1,8 @@
 **김성백**<br>
- **Visual Media High School** / Media Contents major
+ **Visual Media High School** / Media Contents major <br>
  **Seoul Institute of the Arts** / Digital Arts major
 
-(./planet_img.jpg)
+(./C:\Users\Sungbaek\Documents\GitHub\PoeticCodeForNature\planet_img.jpg)
 
 <br>
  **작업설명** <br>
