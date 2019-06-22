@@ -1,6 +1,10 @@
-**김성백**<br>
+**김성백**<br><br>
  Visual Media High School / *Media Contents major* <br>
- Seoul Institute of the Arts / *Digital Arts major*
+ Seoul Institute of the Arts / *Digital Arts major* <br>
+ Motion Graphics Designer <br>
+ Media Artist <br>
+ Alchemist <br>
+ <br>
 
 ![image](./planet_img.jpg/)
 <center>《Fluid : A living planet》 (2019, 남산예술센터, 서울)</center>
