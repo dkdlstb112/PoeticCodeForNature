@@ -1,10 +1,15 @@
-## Sungbaek Kim
+## Project_Post_Pixel
  * **Visual Media High School** / Media Contents major
  * **Seoul Institute of the Arts** / Digital Arts major
 
  > *If it's just us, it seems like an awful waste of space.* **-Carl Sagan**
 
 <br>
+ ---
+[Heart](./PPP_Heart/)
+ * 콩닥콩닥 뛰면서 생명력을 만들어내는 심장을 코드화하였다.
+ * ba_boom이라는 의성어를 중심으로 그것을 정의내리고 갈망하는 과정을 통해 스스로 생각하고 움직이는 심장을 만들었다.
+ * 기능적으로는 무의미하다. 그러나 평이한 코드가 신체기관으로서의 역할을 가지고 있을 때 이 신체기관은 코드에게 유의미한가?
  ---
 [Pixel Generator](./pixelGenerator/)
  * 무작위한 픽셀로 어떤 그림이 그려질까?
