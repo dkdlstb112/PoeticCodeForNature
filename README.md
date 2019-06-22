@@ -17,16 +17,14 @@
  <br>
 
  ---
-[기 : 감각기관](./pixelGenerator/)
+**[기 : 감각기관](./pixelGenerator/)**
  * 무작위한 픽셀로 어떤 그림이 그려질까?
 
  ---
-[인식 : 감각기관](./pixelGenerator/)
+**[인식 : 감각기관](./pixelGenerator/)**
  * 무작위한 픽셀로 어떤 그림이 그려질까?
 
  ---
- [Box2D 예제](./0515_box2d_example/)
- * Box2D 기본 예제 테스트
 
 <!--
  ## Work
