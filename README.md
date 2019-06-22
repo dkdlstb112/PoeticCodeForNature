@@ -1,13 +1,15 @@
-##### 김성백
- * **Visual Media High School** / Media Contents major
- * **Seoul Institute of the Arts** / Digital Arts major
+**김성백**
+ **Visual Media High School** / Media Contents major
+ **Seoul Institute of the Arts** / Digital Arts major
+
+ (./planet_img.jpg)
 
 <br>
  **작업설명** <br>
  Project_Post_Pixel은 Post Human처럼 단순한 픽셀이 인간의 의도로 코드를 부여받으면서 픽셀을 초월한다는 개념으로 접근한 연작입니다.
  모든 코드는 Poetic Code로써 기능적으로는 작동하지 않는 코드이며, 코드 안에 의미를 담고자 노력했습니다.
  <br>
- > *나에게 움직이지 않는 한 점만 달라. 그러면 지구를 움직일 것이다.*  -아르키메데스
+ > *나에게 움직이지 않는 한 점만 달라. 그러면 지구를 움직일 것이다. -아르키메데스**
 
 <br>
 <br>
