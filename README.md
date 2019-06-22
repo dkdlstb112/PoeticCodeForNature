@@ -1,4 +1,4 @@
-**김성백**<br><br>
+**김성백 / Sungbaek Kim**<br><br>
  Visual Media High School / *Media Contents major* <br>
  Seoul Institute of the Arts / *Digital Arts major* <br>
  Motion Graphics Designer <br>
