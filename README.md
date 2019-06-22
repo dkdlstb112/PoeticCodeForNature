@@ -42,15 +42,18 @@
  * [코드실행](./PPP_Perception/)
 
  ---
- **[Pixel Generator](./pixelGenerator/)**<br>
+ **[Pixel Generator](./pixelGenerator/)**
+ <br>
  ![pixelgen](./pixelgenerator.png/)
  ![pixelgen2](./pixelgenerator.gif/)
   * 무작위로 생성되는 픽셀들이 이미지를 창조한다.
   * 아주 단순한 규칙 아래에서 픽셀들은 창발적인 움직임을 만들어나간다.
 
 ---
-**[Worms](./snake/)**<br>
+**[Worms](./snake/)**
+<br>
  ![worm2](./snake.gif/)
   * 각각의 원은 서로를 끌어당기며 지렁이처럼 움직인다.
   * 아주 단순한 규칙 아래에서 픽셀들은 창발적인 움직임을 만들어나간다.
+---
 ---
