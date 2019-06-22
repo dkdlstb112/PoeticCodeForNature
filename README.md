@@ -45,7 +45,8 @@
  **[Pixel Generator](./pixelGenerator/)**
   * 무작위로 생성되는 픽셀들이 이미지를 창조한다.
   * 아주 단순한 규칙 아래에서 픽셀들은 창발적인 움직임을 만들어나간다.
-
+  ![pixelgen](./pixelgenerator.png/)
+  ![pixelgen2](./pixelgenerator.gif/)
 <!--
  ## Work
   * [예시 작업](./example/)
