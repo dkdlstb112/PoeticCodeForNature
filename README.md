@@ -2,7 +2,7 @@
  **Visual Media High School** / Media Contents major
  **Seoul Institute of the Arts** / Digital Arts major
 
- (./planet_img.jpg)
+ [image1](./planet_img.jpg)
 
 <br>
  **작업설명** <br>
