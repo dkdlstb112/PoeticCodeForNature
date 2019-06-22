@@ -1,10 +1,14 @@
 **김성백**<br>
- **Visual Media High School** / Media Contents major <br>
- **Seoul Institute of the Arts** / Digital Arts major
+ Visual Media High School / *Media Contents major* <br>
+ Seoul Institute of the Arts / *Digital Arts major*
 
 ![image](./planet_img.jpg/)
 <center>《Fluid : A living planet》 (2019, 남산예술센터, 서울)</center>
 
+![image](./vr_exhibit.jpg/)
+<center>《VR이 도덕적 이탈에 미치는 영향에 대한 실험》 (2018, ZER01NE, 서울)</center>
+
+<br>
 <br>
  **작업설명** <br>
  Project_Post_Pixel은 Post Human처럼 단순한 픽셀이 인간의 의도로 코드를 부여받으면서 픽셀을 초월한다는 개념으로 접근한 연작입니다.
