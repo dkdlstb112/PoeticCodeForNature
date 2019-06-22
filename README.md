@@ -3,7 +3,7 @@
  **Seoul Institute of the Arts** / Digital Arts major
 
 ![image](./planet_img.jpg/)
-#### <RENDEZVOUS> (2019, 남산예술센터, 서울)
+<center>*《RENDEZVOUS》 (2019, 남산예술센터, 서울)*</center>
 
 <br>
  **작업설명** <br>
