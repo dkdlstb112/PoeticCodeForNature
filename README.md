@@ -3,7 +3,7 @@
  **Seoul Institute of the Arts** / Digital Arts major
 
 ![image](./planet_img.jpg/)
-<center>*《RENDEZVOUS》 (2019, 남산예술센터, 서울)*</center>
+<center>##### 《RENDEZVOUS》 (2019, 남산예술센터, 서울)</center>
 
 <br>
  **작업설명** <br>
@@ -12,7 +12,6 @@
  <br>
  > *나에게 움직이지 않는 한 점만 달라. 그러면 지구를 움직일 것이다. -아르키메데스*
 
-<br>
 <br>
  **작업**
 
