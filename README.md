@@ -3,7 +3,7 @@
  **Seoul Institute of the Arts** / Digital Arts major
 
 ![image](./planet_img.jpg/)
-<center>##### 《RENDEZVOUS》 (2019, 남산예술센터, 서울)</center>
+<center>《RENDEZVOUS》 (2019, 남산예술센터, 서울)</center>
 
 <br>
  **작업설명** <br>
@@ -15,7 +15,7 @@
 <br>
  **작업**
 
-**[심장 : 생존기관](./PPP_Heart/)**
+**[심장 : 생존기관](./PPP_Heart.md/)**
  * 콩닥콩닥 뛰면서 생명력을 만들어내는 심장을 코드화하였다.
  * ba_boom이라는 의성어를 중심으로 그것을 정의내리고 갈망하는 과정을 통해 스스로 생각하고 움직이는 심장을 만들었다. 구조적으로 심장과 동일하기보단 상징적으로 접근하였다.
  * 신체기관으로서의 역할을 가지게 된 코드는 과연 유의미해지는가?
